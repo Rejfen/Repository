@@ -1,0 +1,19 @@
+.border {
+    margin:auto;
+    margin-top:15%;
+    height:200px;
+    width:20%;
+    padding:100px;
+    border-style:solid;
+    text-align:center;
+}
+
+.list {
+    width:100px;
+    height:90px;
+    margin:auto;
+    overflow-y: auto;
+}
+.list ul {
+    list-style:"*";
+}
